@@ -1,0 +1,9 @@
+# Data pulled from ENTSO-E stays local (the pipeline reads it; git doesn't carry it)
+data/*.csv
+*.png
+preds*.csv
+
+__pycache__/
+*.py[cod]
+.venv/
+*.egg-info/

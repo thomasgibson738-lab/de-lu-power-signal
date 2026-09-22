@@ -1,0 +1,4 @@
+numpy>=1.26
+pandas>=2.0
+matplotlib>=3.7   # optional, only for build_signal.py --plot
+entsoe-py>=0.6    # only needed for scripts/fetch_data.py (the real ENTSO-E pull)
